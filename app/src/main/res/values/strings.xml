@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">1026_EditText</string>
+    <string name="ID">ID</string>
+    <string name="Password">Password</string>
+    <string name="Password_Num">Password(Numberic)</string>
+    <string name="Email">E-mail</string>
+</resources>
